@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RyTry1
+- 👀 I’m interested in gcode editing and game design!
+- 🌱 I’m currently learning Gamemaker and Voxel editing.
+- 📫 How to reach me @ rroman2@uccs.edu
